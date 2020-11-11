@@ -133,3 +133,4 @@ scrap/
 
 # ide related
 .idea/
+.vscode/
